@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm An</h1>
+<h3 align="center">I build efficient, scalable systems and tools that solve real problems, with a particular interest in web, games, and developer tooling.</h3>
 
-<!--
-**anspiteri/anspiteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😎 About Me
+I'm currently working on a BSc in Software Development & Computer Science from the University of Sydney.  
+I enjoy working close to the fundamentals—data structures, performance, and system design—while also creating practical tools that improve workflows and user experiences.  
 
-Here are some ideas to get you started:
+- **Languages:** C, Python, Java  
+- **Development:** Backend systems, APIs, tooling, automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚗️ Fun Stuff
+When I’m not coding, I’m exploring games, music, and creative technology projects.  
+Always open to connecting with others building across technical and creative domains.
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/an-spiteri/)  
