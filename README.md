@@ -13,4 +13,6 @@ When I’m not coding, I’m exploring games, music, and creative technology pro
 Always open to connecting with others building across technical and creative domains.
 
 ## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/an-spiteri/)  
+<a href="https://linkedin.com/in/an-spiteri/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="an-spiteri" height="30" width="40" />
+</a>
