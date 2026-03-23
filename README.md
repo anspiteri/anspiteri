@@ -30,7 +30,7 @@ Always open to connecting with others building across technical and creative dom
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/C" target="_blank" rel="noreferrer">
+  <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
