@@ -15,44 +15,34 @@ Always open to connecting with others building across technical and creative dom
 </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  Please email me, I’d love to chat! <a href="mailto:an@anspiteri.com">an@anspiteri.com</a>
+  Please email me, I’d love to chat!
+  <a href="mailto:an@anspiteri.com">an@anspiteri.com</a>
 </p>
+
+<!-- Social icons -->
 <p align="left">
-  <a href="https://github.com/anspiteri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anspiteri" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/an-spiteri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="an-spiteri" height="30" width="40" />
-  </a>
+  <a href="https://github.com/anspiteri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/an-spiteri" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<!-- Languages row -->
 <p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-  </a>
-  <br><br>
+  <a href="https://www.c-language.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40"/></a>
+</p>
 
-  <!-- Frameworks / Libraries -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
-  </a>
-  <!-- Add more frameworks here -->
-  <br><br>
+<!-- Frameworks row -->
+<p align="left">
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" height="40"/></a>
+</p>
 
-  <!-- Tools / Other -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  </a>
+<!-- Tools row -->
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40"/></a>
+  <a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40"/></a>
 </p>
