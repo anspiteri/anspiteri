@@ -1,6 +1,8 @@
-# Hi 👋, I'm An Spiteri
-
-### Software Engineer (C / Python / Java) | Systems & Backend Focus | Curious about Games, Tooling, and Web Projects
+<h1 align="center">Hi 👋, I'm An Spiteri</h1>
+<hgroup>
+  <h3 align="center">Software Engineer</h3>
+  <p align="center"><b>Systems & Backend Focus | Curious about Games, Tooling, and Web Projects</b></p>
+</hgroup>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
