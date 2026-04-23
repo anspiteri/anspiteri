@@ -7,13 +7,13 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
 I'm currently working on a BSc in Software Development & Computer Science at the University of Sydney.  
-I love working close to the fundamentals—data structures, performance, and system design, yet I also enjoy creating practical tools that solve problems, improve workflows and enhance user experience. 
+As an engineer, I love working close to the fundamentals, designing systems, and creating practical tools.
 </p>
 
 <h3 align="left">Fun / Interests:</h3>
 <p align="left">
 When I’m not coding, I’m exploring games, music, and literature.  
-I love connecting with others and collaborating across technical and creative domains.
+I also love connecting with others and collaborating across technical and creative domains.
 </p>
 
 <h3 align="left">Connect with me:</h3>
