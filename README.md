@@ -6,7 +6,7 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-I'm currently working on a BSc in Software Development & Computer Science at the University of Sydney.  
+I'm a recent BSc graduate in Software Development & Computer Science at the University of Sydney.  
 As an engineer, I love working close to the fundamentals, designing systems, and creating practical tools.
 </p>
 
