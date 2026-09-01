@@ -19,10 +19,10 @@ I especially love open-source, and hope to be able to contribute to this generou
 <p align="left">
 Outside of programming, I'm also a musician—playing drums since I was a kid, and also currently
   learning classical piano.
-I love reading and am currently working my way through some curated reading lists for fantasy and
-  science-fiction.
-I'm also an avid gamer—currently trying out WoW and have played lots of Halo and RPGs in the
-  past. I'm also a big horror and Resident Evil fan!
+I love reading and am currently working my way through both fantasy, science-fiction and some
+  classics.
+I'm also an avid gamer. I grew up playing RPGs and FPSs but I've really gotten into horror and
+  MMOs lately.
 
 I like incorporating my interests into my projects, so you might find some similar themes
   throughout my work.
