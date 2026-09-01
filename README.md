@@ -17,7 +17,7 @@ I especially love open-source, and hope to be able to contribute to this generou
 
 <h3 align="left">Fun / Interests:</h3>
 <p align="left">
-Outside of programming, I'm also a musician—playing drums since I was a kid, and also currently
+Outside of programming, I'm also a musician—playing drums since I was a kid, and currently
   learning classical piano.
 I love reading and am currently working my way through both fantasy, science-fiction and some
   classics.
