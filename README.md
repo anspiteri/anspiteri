@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm An Spiteri</h1>
+<h1 align="center">Hi 👋, I'm An</h1>
 <hgroup>
   <h3 align="center">Software Engineer</h3>
   <p align="center"><b>Currently exploring Web, Tooling, and Games</b></p>
