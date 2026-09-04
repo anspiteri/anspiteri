@@ -2,7 +2,7 @@
 <hgroup>
   <h3 align="center">Software Engineer</h3>
   <p align="center"><b>Exploring web-based and native software, with a particular
-    interest in complex systems, game tech and developer tooling.</b></p>
+    interest in complex systems and frontier technology.</b></p>
 </hgroup>
 
 <h3 align="left">About Me:</h3>
