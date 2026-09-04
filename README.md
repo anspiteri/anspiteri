@@ -14,7 +14,7 @@ Currently, I'm exploring systems-orientated, application development, as well as
   creating interesting and useful tools and technologies.
 I'm currently working on MatchmakingLab — a platform for prototyping competitive matchmaking
   algorithms, as well as a WaveKit, a systems library for operations involving digital audio.
-I also love open-source software, and try to be actively involved in that space.
+I love open-source software, and try to be actively involved in that space.
 
 <h3 align="left">Fun / Interests:</h3>
 <p align="left">
