@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm An</h1>
 <hgroup>
   <h3 align="center">Software Engineer</h3>
-  <p align="center"><b>Currently exploring Web, Tooling, and Games</b></p>
+  <p align="center"><b>Exploring web-based and native software, with a particular
+    interest in complex systems, game tech and developer tooling.</b></p>
 </hgroup>
 
 <h3 align="left">About Me:</h3>
@@ -9,10 +10,11 @@
 I'm a recent BSc graduate in Software Development & Computer Science at the University of Sydney.
 
 I'm someone who loves building products, tackling engineering problems, and learning.
-I'm currently exploring building in the web space but I also really enjoy understanding low-level
-  systems and writing robust and efficient code.
+For me, this looks like exploring systems-orientated and application development, with a
+  a particular focus on native software, game technology, backend engineering, and full-stack
+  web applications.
 My personal projects really give me an opportunity to continue growing as a software developer,
-as well as being an outlet for my passion for computing in general.
+  as well as being an outlet for my passion for computing in general.
 I especially love open-source, and hope to be able to contribute to this generous community.
 
 <h3 align="left">Fun / Interests:</h3>
