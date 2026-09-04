@@ -10,12 +10,11 @@
 I'm a recent BSc graduate in Software Development & Computer Science at the University of Sydney.
 
 I'm someone who loves building products, tackling engineering problems, and learning.
-For me, this looks like exploring systems-orientated and application development, with a
-  a particular focus on native software, game technology, backend engineering, and full-stack
-  web applications.
-My personal projects really give me an opportunity to continue growing as a software developer,
-  as well as being an outlet for my passion for computing in general.
-I especially love open-source, and hope to be able to contribute to this generous community.
+Currently, I'm exploring systems-orientated, application development, as well as
+  creating interesting and useful tools and technologies.
+I'm currently working on MatchmakingLab — a platform for prototyping competitive matchmaking
+  algorithms, as well as a WaveKit, a systems library for operations involving digital audio.
+I also love open-source software, and try to be actively involved in that space.
 
 <h3 align="left">Fun / Interests:</h3>
 <p align="left">
