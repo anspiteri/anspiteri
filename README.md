@@ -47,7 +47,6 @@ I like incorporating my interests into my projects, so you might find some simil
 <!-- Languages row -->
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40"/></a>
   <!--<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" height="40"/></a>-->
   <a href="https://www.c-language.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40"/></a>
